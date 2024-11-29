@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
 </p>
 
 <p class="text-xl text-gray-800 italic mt-4">
-  Happy Birthday once again! And one last thing — I love you.
+  Happy Birthday once again! And one last thing — I love you❤️
 </p>
 
         </div>
